@@ -1,4 +1,4 @@
-# 🏨 Diyafa — Système de Gestion Hôtelière et Immobilière (PMS)
+# Système de Gestion Hôtelière et Immobilière (PMS)
 
 Plateforme complète de **gestion hôtelière et immobilière**, réalisée dans le cadre d'un projet de fin d'études (PFE) de licence à l'Université Abdelhamid Mehri – Constantine 2. Elle associe une **application mobile Flutter** destinée aux clients et un **tableau de bord web React** destiné au personnel de l'hôtel, le tout reposant sur une **API REST Node.js / Express** et une base de données **MySQL**.
 
