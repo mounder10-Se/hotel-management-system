@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+build/
+.next/
+
+# Python / Django
+venv/
+.venv/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
